@@ -36,3 +36,9 @@ Além das funcionalidades exigidas adicionei mais algumas funcionalidades:
 - DateTime para controlar entrada e saida de veiculos.
 - Validações simples para conferir entrada de dados.
 - Em fase de desenvolvimento...
+
+## Observação
+- abrir terminal
+- entrar na pasta renomeada src com comando ´´ cd src ´´´
+- executar comando ´´´ dotnet run ´´´
+- Obrigado a todos.
